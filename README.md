@@ -28,7 +28,6 @@ Vary: Accept-Encoding
 Content-Type: text/html;charset=UTF-8
 Connection: close
 
-
 ---
 ---
 
